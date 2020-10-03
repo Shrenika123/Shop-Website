@@ -1,0 +1,20 @@
+.Product-container{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    flex-grow: inherit;
+    align-items: center;
+    border: 1px solid lightgray;
+    height: 250px;
+    margin: 10px;
+    box-shadow:  3px 3px 4px 4px #ccc;
+
+
+}
+
+.product_image{
+    object-fit: contain;
+    height: 150px;
+    width:150px
+}
+

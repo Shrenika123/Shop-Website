@@ -1,0 +1,79 @@
+.Header-main{
+    display:flex;
+    justify-content: space-between;
+    border:1px solid lightgray;
+    margin:10px;
+    height:5em;
+    align-items: center;
+    position: sticky;
+    top:0;
+    z-index: 1;
+    background-color:black
+}
+
+.Header-right{
+    display:flex;
+    padding: 10px;
+
+}
+
+.Header-button
+{
+    margin-right: 20px;
+    width: 4em;
+    height:2em;
+    margin-top:20px;
+    border-radius: 10%;
+    border:2px solid lightblue;
+    margin-left: 10px;
+    /* outline:0.5px solid lightblue; */
+    /* background-color: rosybrown; */
+}
+
+.Header-button :hover{
+    opacity: 1;
+}
+
+
+.cartCount{
+    border-radius: 50%;
+    position: absolute;
+    width:17px;
+    height: 17px;
+    /* background-color: rgb(24, 22, 22); */
+    background-color:white;
+
+    margin-right: -2px;
+    z-index: 100px;
+    top:10px;
+    font-size: 14px;
+    text-align: center;
+    color:black;
+}
+
+.Header-title{
+    padding-left: 10px;
+}
+
+.Header-username
+{
+    color: white;
+}
+.Header-title{
+    color: white;
+}
+
+
+.Header-Avatar{
+    border-radius: 50%;
+
+    width:60px;
+    margin-right: 20px;
+    border: none;
+    transform: none;
+    
+    
+}
+.Header-button1:focus{
+    outline: 0;
+}

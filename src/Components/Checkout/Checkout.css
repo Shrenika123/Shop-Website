@@ -1,0 +1,33 @@
+.checkout{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    min-width: 300px;
+    min-height: 1000px;
+    margin-right: auto;
+    
+}
+
+.checkout_basket{
+ max-width: 600px;
+ background-color: white;
+ margin-left: 10px;
+ margin-top: 10px;
+}
+
+.checkout-button{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    border-radius: 0;
+}
+
+.message{
+    margin-left: 10px;
+}
+
+.cart-button{
+    margin-left: 20%;
+    border-radius: 0;
+
+}
