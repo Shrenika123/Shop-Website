@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-Live demo:https://shrenika123.github.io/Shop/
+Live demo:https://shrenika123.github.io/Shop1/
 
 Description:This project is demonstration of a simple e-commerce SPA website built using React library
 Functinality:
